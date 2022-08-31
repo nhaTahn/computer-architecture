@@ -1,2 +1,2 @@
 # computer-architecture in HCMUT aka BK HCM (CS)
-Lab and Assignment with ASSENBLY 
+Lab and Assignment with ASSEMBLY 
